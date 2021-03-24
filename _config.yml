@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "C 프로그래밍"
 title_separator          : "-"
-subtitle                 : "21008 도현채입니다" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "도현채"
 description              : "시스템 프로그램을 위한 C언어"
 url                      : # "https://hhhyyn17.github.io"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "도현채"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "행복한 컴퓨터교육 설계자"
+  bio              : "21008 도현채입니다"
   location         : "대한민국, 서울"
   email            : "hyunchae1209@gmail.com"
   links:
