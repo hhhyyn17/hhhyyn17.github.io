@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
 title                    : "C 프로그래밍"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "임경희"
+subtitle                 : "21008 도현채입니다" # site tagline that appears below site title in masthead
+name                     : "도현채"
 description              : "시스템 프로그램을 위한 C언어"
 url                      : # "https://hhhyyn17.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
