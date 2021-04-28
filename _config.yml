@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "도현채"
-  avatar           : # path of avatar image, e.g. "/assets/images/picture.PNG"
+  avatar           :"/assets/images/picture.PNG"
   bio              : "21008 도현채입니다"
   location         : "대한민국, 서울"
   email            : "hyunchae1209@gmail.com"
