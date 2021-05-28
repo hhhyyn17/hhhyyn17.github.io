@@ -19,6 +19,6 @@ PC산업의 초창기시절 빌 게이츠와 스티브 잡스의 개발 활약�
 
 ---  
 ### 소셜 네트워크
-[![mark](assets/images/mark.png  "더 자세한 내용을 원하시면 방문해 보세요")](https://topclass.chosun.com/board/view/asp?catecode=}&tnu=201901100028)  
+[![mark](/assets/images/mark.png  "더 자세한 내용을 원하시면 방문해 보세요")](https://topclass.chosun.com/board/view/asp?catecode=}&tnu=201901100028)  
 
 페이스북 창업자 마크 주커버그 이야기이다. 
