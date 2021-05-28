@@ -13,7 +13,7 @@ IT 기술이나 인물을 소재로하는 영화는 많지가 않다. 지금까�
 ---  
 ### 실리콘 밸리의 신화
 ![bill_jobs][silicon]
-[sillicon]: https://an2-img.amz.wtchn.net/image/v1/watcha/image/upload/c_fill.h_400.q_80.w_280/v1466137418?h2jmm7eh11jdpa8sdoth.jpg  
+[sillicon]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fmovie.daum.net%2Fmoviedb%2Fmain%3FmovieId%3D30849&psig=AOvVaw0XZ3GrSCRy2QqvII8TX5Dq&ust=1622267003037000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPCM09bV6_ACFQAAAAAdAAAAABAD  
 PC산업의 초창기시절 빌 게이츠와 스티브 잡스의 개발 활약상을 그린 작품이다.  
 
 
