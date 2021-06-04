@@ -25,4 +25,5 @@ title: "유튜브 동영상 삽입하기"
 {% include video id="Pcr9bNZewEw" provider="youtube" %}  
 
 
-마지막으로 햄스터입니다. 햄야호
+마지막으로 햄스터입니다.  
+햄스터는 가장 귀엽습니다.  
